@@ -1,8 +1,0 @@
-sel100m 2 250/360 225000
-sel100m.mat 16+192 200(-1024)/mV 11 0 -79 10703 0 MLII
-sel100m.mat 16+192 200(-1024)/mV 11 0 -69 -26453 0 V5
-# 69 M 1085 1629 x1
-# Aldomet, Inderal
-#Produced by xform from record 100, beginning at 7:00.000
-#Creator: wfdb2mat
-#Source: record sel100
